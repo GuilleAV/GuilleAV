@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - At the moment I'm working on Beansoft - Software Factory.
 - I consider myself a proactive person. I like to constantly improve myself, do research and working collaboratively.
 - I’m currently learning ANGULAR.
-- I enjoy meeting either with friends or family, and I'm also keen on traveling.
+- I enjoy meeting either with friends or family, and I'm also keen on travelling.
 
 ### Where to find me
 - [Twitter](https://twitter.com/GuilleVallejo19?t=lpfbq1FVoQEENBc2_M3eJw&s=08)
